@@ -1,0 +1,3 @@
+/home/dawn/Documents/VSCodeProjects/YOLO_ana/build/CMakeFiles/YOLO_ana.dir
+/home/dawn/Documents/VSCodeProjects/YOLO_ana/build/CMakeFiles/edit_cache.dir
+/home/dawn/Documents/VSCodeProjects/YOLO_ana/build/CMakeFiles/rebuild_cache.dir
